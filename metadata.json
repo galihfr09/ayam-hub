@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Kalkulator Pakan Ayam KUB",
+  "description": "Aplikasi Web interaktif untuk membantu peternak ayam KUB menghitung kebutuhan pakan harian dan meracik formulasi pakan non-pabrikan menggunakan metode coba-banding (Trial and Balance).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
